@@ -1,0 +1,25 @@
+{
+  "name": "javascrip-asincronismo",
+  "version": "1.0.0",
+  "description": "proyecto de asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "callback":"node request/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boomcrash/Javascrip-Asincronismo.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Milton Elizalde alexmol_14@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boomcrash/Javascrip-Asincronismo/issues"
+  },
+  "homepage": "https://github.com/boomcrash/Javascrip-Asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
